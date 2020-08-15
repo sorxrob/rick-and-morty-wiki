@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-tailwind",
-    "slug": "expo-tailwind",
+    "name": "rick-and-morty-wiki",
+    "slug": "rick-and-morty-wiki",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
